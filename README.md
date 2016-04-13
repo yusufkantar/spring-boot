@@ -7,7 +7,7 @@ Spring Boot Project: Web, Security, Data Jpa, Thymeleaf, Mvc Router
 &nbsp;&nbsp;&nbsp;1-2) Update to pom.xml,<br/>
 &nbsp;&nbsp;&nbsp;1-3) Create a new Tomcat (7+),<br/>
 &nbsp;&nbsp;&nbsp;1-4) Create a new your database and insert new role("ADMIN") and new user,<br/>
-&nbsp;&nbsp;&nbsp;1-5) And Run.<br/>
+&nbsp;&nbsp;&nbsp;1-5) And Run. http://localhost:8080<br/>
   <br/>
 2- Used Encryption<br/>
 &nbsp;&nbsp;&nbsp;-> https://docs.spring.io/spring-security/site/docs/current/apidocs/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.html
