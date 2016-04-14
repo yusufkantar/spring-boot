@@ -14,3 +14,6 @@ Spring Boot Project: Web, Security, Data Jpa, Thymeleaf, Mvc Router
 
 3- Spring Boot Document<br/>
 &nbsp;&nbsp;&nbsp;-> http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+
+4- Spring Boot application properties<br/>
+&nbsp;&nbsp;&nbsp;-> https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
